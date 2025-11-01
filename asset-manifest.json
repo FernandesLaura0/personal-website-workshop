@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-website-workshop/static/css/main.0a58ef09.css",
+    "main.js": "/personal-website-workshop/static/js/main.3e77ac90.js",
+    "static/js/453.267e6399.chunk.js": "/personal-website-workshop/static/js/453.267e6399.chunk.js",
+    "index.html": "/personal-website-workshop/index.html",
+    "main.0a58ef09.css.map": "/personal-website-workshop/static/css/main.0a58ef09.css.map",
+    "main.3e77ac90.js.map": "/personal-website-workshop/static/js/main.3e77ac90.js.map",
+    "453.267e6399.chunk.js.map": "/personal-website-workshop/static/js/453.267e6399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a58ef09.css",
+    "static/js/main.3e77ac90.js"
+  ]
+}
