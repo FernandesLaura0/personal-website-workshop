@@ -23,6 +23,9 @@ function App() {
 export default App;
 
 /*run on gitbash:
+if you are not on the local link open do the following:
+go to git bash and write npm start
+
 go to the folder personal-website-workshop
 then after saving the edits on VS code commit the changes then open gitbash and write
 git push -u origin main (so gitHub and the link will be updated)
