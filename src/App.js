@@ -24,6 +24,10 @@ export default App;
 
 /*run on gitbash:
 go to the folder personal-website-workshop
+then after saving the edits on VS code commit the changes then open gitbash and write
+git push -u origin main (so gitHub and the link will be updated)
+
+if that does not work try the following:
 npm run deploy
 every time you change something on the page
 so the new link it's updated
