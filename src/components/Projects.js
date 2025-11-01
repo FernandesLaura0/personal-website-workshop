@@ -11,7 +11,7 @@ const Projects = () => {
      },
      {
         name: "Technical project-Python and Java",
-        description: "The link below will go to the "
+        description: "Coding of random games I used to practice"
      }
     ];
     return (
