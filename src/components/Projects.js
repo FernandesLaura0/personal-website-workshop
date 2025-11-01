@@ -10,7 +10,8 @@ const Projects = () => {
         
      },
      {
-        name: "Technical project-Python and Java"
+        name: "Technical project-Python and Java",
+        description: "The link below will go to the "
      }
     ];
     return (

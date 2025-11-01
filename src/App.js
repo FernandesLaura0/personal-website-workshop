@@ -21,3 +21,10 @@ function App() {
 };
 
 export default App;
+
+/*run on gitbash:
+go to the folder personal-website-workshop
+npm run deploy
+every time you change something on the page
+so the new link it's updated
+*/
