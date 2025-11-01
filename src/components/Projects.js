@@ -19,7 +19,7 @@ const Projects = () => {
         <div className="projects-container">
             <div className="projects-content">
                 {projects.map((project, index) => (
-                    <div key={index} className="project-card">
+                    <div key={index} className="projects-card">
                         <h2><strong>{project.name}</strong></h2>
                         <p>{project.description}</p>
                         <p className="tech"><em>{project.tech}</em></p>
