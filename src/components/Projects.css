@@ -15,7 +15,7 @@
     width: 100%;
 }
 
-.project-card {
+.projects-card {
     background-color: rgba(255, 255, 255, 0.05);
     border: 2px solid white;
     border-radius: 12px;
@@ -25,21 +25,21 @@
     transition: transform 0.3s;
 }
 
-.project-card:hover {
+.projects-card:hover {
     transform: scale(1.05);
 }
 
-.project-card h2 {
+.projects-card h2 {
     margin-bottom: 10px;
     font-size: 24px;
 }
 
-.project-card p {
+.projects-card p {
     margin-bottom: 10px;
     font-size: 18px;
 }
 
-.project-card .tech {
+.projects-card .tech {
     font-size: 16px;
     color: #61dafb;
     margin-bottom: 15px;

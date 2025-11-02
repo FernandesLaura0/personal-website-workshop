@@ -13,7 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<h1>About Page</h1>} />
-        <Route path="/experience" element={<h1>Expereince Page</h1>} />
+        <Route path="/experience" element={<h1>Experience Page</h1>} />
         <Route path="/projects" element={<Projects />} />
       </Routes>
     </Router>
@@ -34,4 +34,12 @@ if that does not work try the following:
 npm run deploy
 every time you change something on the page
 so the new link it's updated
+
+
+
+
+ok actually the way to push the updates to the link I created is:
+git commit -am "write what you updated"
+git push
+npm run deploy
 */
