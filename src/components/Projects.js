@@ -13,6 +13,11 @@ const Projects = () => {
      {
         name: "Technical project-Python and Java",
         description: "Coding of random games I used to practice"
+     },
+     {
+        name: "Figma projects",
+        description: "Link to my projects on Figma envolving software desing",
+        link: "https://www.figma.com/files/team/1350981228662349295/all-projects?fuid=1350981224470866735"
      }
     ];
     return (
