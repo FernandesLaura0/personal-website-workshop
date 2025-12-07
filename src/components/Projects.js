@@ -7,7 +7,8 @@ const Projects = () => {
         name: "Personal Portfolio Website",
         description: "A website to test different layouts, to test and showcase my skills, projects, and experiences.",
         tech: "React, HTML, CSS, React Router",
-        link: "https://github.com/FernandesLaura0/Projects"
+        link: "https://github.com/FernandesLaura0/Projects",
+        linkLabel: "View on GitHub"
         
      },
      {
@@ -17,7 +18,8 @@ const Projects = () => {
      {
         name: "Figma projects",
         description: "Link to my projects on Figma envolving software desing",
-        link: "https://www.figma.com/files/team/1350981228662349295/all-projects?fuid=1350981224470866735"
+        link: "https://www.figma.com/files/team/1350981228662349295/all-projects?fuid=1350981224470866735",
+        linkLabel: "View on Figma"
      }
     ];
     return (
@@ -35,7 +37,7 @@ const Projects = () => {
                             rel="noopener noreferrer"
                             className="github-link"
                             >
-                                View on GitHub
+                                {project.link.includes("figma.com") ? "View on Figma" : "View on GitHub"}
                             </a>
                         )}
                     </div>
