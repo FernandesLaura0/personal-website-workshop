@@ -1,5 +1,5 @@
 .home-container {
-    background: linear-gradient(-45deg, #070c46, #1a1a72, #0f0f2f, #2c2c8a);
+    background: linear-gradient(-45deg, #ebebaf, #fcdc87, #f5c668, #fca671);
     background-size: 400% 400%;
     animation: gradientBG 15s ease infinite;
     height: 100vh;
