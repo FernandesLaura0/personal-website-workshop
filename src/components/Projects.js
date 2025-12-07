@@ -14,6 +14,7 @@ const Projects = () => {
      {
         name: "Technical project-Python and Java",
         description: "Coding of random games I used to practice"
+        
      },
      {
         name: "Figma projects",

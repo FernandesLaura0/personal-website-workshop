@@ -1,5 +1,5 @@
 .projects-container {
-    background-color: #070c46;
+    background-color: #fca671;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -16,7 +16,7 @@
 }
 
 .projects-card {
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: rgba(245, 220, 110, 0.05);
     border: 2px solid white;
     border-radius: 12px;
     padding: 20px;
@@ -41,7 +41,7 @@
 
 .projects-card .tech {
     font-size: 16px;
-    color: #61dafb;
+    color: #42803b;
     margin-bottom: 15px;
 }
 
@@ -50,15 +50,15 @@
     display: inline-block;
     margin-top: 10px;
     padding: 8px 16px;
-    border: 1px solid #61dafb;
+    border: 1px solid #42803b;
     border-radius: 8px;
-    color: #61dafb;
+    color: #42803b;
     text-decoration: none;
     font-weight: bold;
     transition: background 0.3s, color 0.3s;
 }
 
 .github-link:hover {
-    background: #61dafb;
+    background: #4b8544;
     color: #070c46;
 }
