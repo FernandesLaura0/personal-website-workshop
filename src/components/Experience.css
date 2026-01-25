@@ -1,5 +1,5 @@
 .experience-container {
-    background-color: #fca671;
+    background-color: #ecffc6;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -17,10 +17,10 @@
 
 .experience-card {
     background-color: rgba(245, 220, 110, 0.05);
-    border: 2px solid white;
+    border: 2px solid rgb(52, 150, 75);
     border-radius: 12px;
     padding: 20px;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     transition: transform 0.3s;
 }

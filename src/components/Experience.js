@@ -4,23 +4,14 @@ import "./Experience.css";
 const Experience = () => {
     const experience = [
      {
-        name: "Personal Portfolio Website",
-        description: "A website to test different layouts, to test and showcase my skills, projects, and experiences.",
-        tech: "React, HTML, CSS, React Router",
-        link: "https://github.com/FernandesLaura0/Projects",
-        linkLabel: "View on GitHub"
+        name: "Janox Stainless Steel",
+        description: "My first job was as an aprentice in this company. I got to work in all different sectors (Administrative, Logistic, Sales, and Inventory) learning how each of them connect with each other."
         
      },
      {
-        name: "Technical project-Python and Java",
-        description: "Coding of random games I used to practice"
+        name: "BC Investiments",
+        description: "My first co-op! From September of 2024 to April of 2025 I worked with the Service Desk team at BCI. There I was able to learn many different skills, with the main one being quick problem-solving abilities."
         
-     },
-     {
-        name: "Figma projects",
-        description: "Link to my projects on Figma envolving software desing",
-        link: "https://www.figma.com/files/team/1350981228662349295/all-projects?fuid=1350981224470866735",
-        linkLabel: "View on Figma"
      }
     ];
     return (
