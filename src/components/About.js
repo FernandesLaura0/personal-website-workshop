@@ -9,7 +9,22 @@ const About = () => {
         <div className="cover">
             <label for="checkbox-cover"></label>
         </div>
-        <div className="page"></div>
+        <div class="page" id="page1">
+          <div class="front-page">
+            <p>
+              More about me:
+            </p>
+            <label class="next" for="checkbox-page1">
+              <i class="fas-fa-chevron-right">
+              </i>
+            </label>
+          </div>
+        </div>
+
+        <div class="page" id="page2">
+
+        </div>
+        
         <div className="back-cover"></div>
       </div>
     </div>
