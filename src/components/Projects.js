@@ -21,7 +21,7 @@ const Projects = () => {
         description: "Link to my projects on Figma envolving software desing",
         link: "https://www.figma.com/files/team/1350981228662349295/all-projects?fuid=1350981224470866735",
         linkLabel: "View on Figma",
-        images: [./components/screnshot/figma1.png]
+        images: [/components/screnshot/figma1.png]
      }
     ];
     return (
