@@ -19,6 +19,13 @@ const About = () => {
               </i>
             </label>
           </div>
+          <div class="back-page">
+            <p>blah blah</p>
+            <label class="prev" for="checkbox-page1">
+              <i class="fas-fa-chevron-right">
+              </i>
+              </label>
+          </div>
         </div>
 
         <div class="page" id="page2">
